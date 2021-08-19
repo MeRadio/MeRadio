@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MeRadio
+- 👀 I’m interested in automaating data management processes in drafting software like AutoCAD
+- 🌱 I’m currently learning AutoLisp and VB.Net for AutoCAD
+- 💞️ I’m looking to collaborate on any of the above.
+- 📫 How to reach me ... thomas@bamford.works
